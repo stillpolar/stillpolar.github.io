@@ -1738,8 +1738,37 @@ section.lazy-placeholder:after {
 .cid-rKl6vWUaCj .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rKyVXymbti {
+  padding-top: 135px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/4k-wallpaper-cellphone-clean-1420702-2000x1325.jpg");
+}
+.cid-rKyVXymbti .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-rKyVXymbti .media-container-column {
+  background-color: #000000;
+}
+@media (max-width: 767px) {
+  .cid-rKyVXymbti .media-container-column {
+    padding: 1rem !important;
+  }
+}
+.cid-rKyZCWxb21 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #000000;
+}
+.cid-rKyZCWxb21 .mbr-section-subtitle {
+  color: #cccccc;
+  text-align: left;
+}
+.cid-rKyZCWxb21 H2 {
+  color: #ffffff;
+  text-align: left;
+}
 .cid-rKyRaPOw7z {
-  padding-top: 120px;
+  padding-top: 60px;
   padding-bottom: 30px;
   background-image: url("../../../assets/images/lines-patterns-wall-140770-3840x2160-2000x1125.jpg");
 }
