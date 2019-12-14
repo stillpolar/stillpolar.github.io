@@ -1754,18 +1754,97 @@ section.lazy-placeholder:after {
     padding: 1rem !important;
   }
 }
-.cid-rKyZCWxb21 {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-rKBQAgDHvd {
+  padding-top: 45px;
+  padding-bottom: 90px;
   background-color: #000000;
 }
-.cid-rKyZCWxb21 .mbr-section-subtitle {
-  color: #cccccc;
-  text-align: left;
-}
-.cid-rKyZCWxb21 H2 {
+.cid-rKBQAgDHvd .mbr-section-subtitle {
   color: #ffffff;
-  text-align: left;
+}
+.cid-rKBQAgDHvd .container-table {
+  margin: 0 auto;
+}
+.cid-rKBQAgDHvd .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-rKBQAgDHvd .dataTables_wrapper {
+  display: block;
+}
+.cid-rKBQAgDHvd .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-rKBQAgDHvd .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-rKBQAgDHvd table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+}
+.cid-rKBQAgDHvd table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-rKBQAgDHvd table th:hover {
+  background: #cccccc;
+  color: #000000;
+}
+.cid-rKBQAgDHvd table td {
+  border-top: 1px solid #cccccc;
+}
+.cid-rKBQAgDHvd table.table {
+  background: #000000;
+}
+.cid-rKBQAgDHvd .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-rKBQAgDHvd .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-rKBQAgDHvd .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-rKBQAgDHvd .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+  color: #ffffff;
+}
+@media (max-width: 992px) {
+  .cid-rKBQAgDHvd .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-rKBQAgDHvd .dataTables_filter {
+    text-align: center;
+  }
+  .cid-rKBQAgDHvd .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-rKBQAgDHvd .mbr-section-title {
+  color: #ffffff;
+}
+.cid-rKBQAgDHvd .head-item {
+  color: #ffffff;
+}
+.cid-rKBQAgDHvd .body-item {
+  color: #ffffff;
+}
+.cid-rKBQAgDHvd .searchInfo {
+  color: #ffffff;
 }
 .cid-rKyRaPOw7z {
   padding-top: 60px;
